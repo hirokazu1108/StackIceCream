@@ -4,7 +4,7 @@
   2022年10月にゲームエンジンUnityを用いて,個人で制作した「ただアイスクリームを積んでく」ゲームです.
   
 - ### プレイ動画・掲載ページ
-   [プレイ動画（Google Driveに移動）](https://drive.google.com/drive/u/1/folders/1QlGOesiHKCc60sRfaEiHR3TlQCjtcapf)
+   [プレイ動画（Google Driveに移動）](https://drive.google.com/drive/folders/1SP-2N1y92h_4FJKJC4cAJQMtWkQsMKIc?usp=drive_link)
   
 - ### ゲームコンセプト
   ただただ高くアイスクリームを積んでいく
