@@ -2,10 +2,6 @@
 
 - ### 概要
   2022年10月にゲームエンジンUnityを用いて,個人で制作した「ただアイスクリームを積んでく」ゲームです.
-
-   この制作では以下を使用しています.
-   - C#
-   - [Unity(https://unity.com/ja)](https://unity.com/ja)
   
 - ### プレイ動画・掲載ページ
    [プレイ動画（Google Driveに移動）](https://drive.google.com/drive/u/1/folders/1QlGOesiHKCc60sRfaEiHR3TlQCjtcapf)
